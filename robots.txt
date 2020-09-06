@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://growth-study.kr/sitemap.xml
+
+DaumWebMasterTool:0ca3d950b335f4168220cad256cf964b0e98193d69a7f13fe22397d6ae7a8749:8+R9pCGyucsS10vXk/Zuog==
