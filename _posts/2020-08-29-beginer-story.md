@@ -6,7 +6,7 @@ date: 2020-08-29 14:30:00 +09:00
 feature: '/img/posts/beginer-story/gstudy-posting1thumb.png'
 background: '/img/posts/beginer-story/gstudy-posting1bg.png'
 categories:
-  - story
+  - telling
 tags:
   - 신입마케터
   - 1년차마케터

@@ -6,7 +6,7 @@ date: 2020-08-30 11:30:00 +09:00
 feature: '/img/posts/recruit-tip/gstudy-posting2thumb.png'
 background: '/img/posts/recruit-tip/gstudy-posting2bg.png'
 categories:
-  - story
+  - telling
 tags:
   - 신입마케터
   - 이력서조언
