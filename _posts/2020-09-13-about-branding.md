@@ -2,7 +2,7 @@
 layout: post
 permalink: /about-branding/
 title: '실무로서의 브랜딩'
-date: 2020-08-30 11:30:00 +09:00
+date: 2020-09-13 11:30:00 +09:00
 feature: '/img/posts/about-branding/gstudy-posting3thumb.png'
 background: '/img/posts/about-branding/gstudy-posting3bg.png'
 categories:
