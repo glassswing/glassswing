@@ -43,7 +43,7 @@ description: '2020 광고관리자 버전 간단 정리'
 ![페이스북 비즈니스 정보](/img/posts/facebook-business-number/fb-business1.jpg)
 
  2. 비즈니스 상세 정보에서 [수정] 버튼 클릭
-![페이스북 비즈니스 정보 수정](/img/posts/facebook-business-number/fb-business3.jpg)
+![페이스북 비즈니스 정보 수정](/img/posts/facebook-business-number/fb-business2.jpg)
 
  3. 납세자번호(사업자번호) 입력하기
  ![페이스북 납세자번호](/img/posts/facebook-business-number/fb-business3.jpg)
